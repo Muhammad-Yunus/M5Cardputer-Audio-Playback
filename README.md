@@ -35,8 +35,8 @@ An audio record & playback app for the **M5Stack Cardputer** running MicroPython
 │  │    DISPLAY   │  │   MIC I2S  │  │  STORAGE      │   │
 │  │  (M5.Display)│  │  (Pin 46)  │  │ Flash / SD    │   │
 │  └──────┬───────┘  └─────┬──────┘  └───────┬───────┘   │
-│         │                 │                │           │
-│  ┌──────▼─────────────────▼────────────────▼─────────┐ │
+│         │                │                 │           │
+│  ┌──────▼────────────────▼─────────────────▼─────────┐ │
 │  │            RECORD MODE  /  PLAYBACK MODE          │ │
 │  │  ┌────────────────────────┐  ┌──────────────────┐ │ │
 │  │  │  BtnA Clicked → Rec    │  │ BtnA Hold → Play │ │ │
