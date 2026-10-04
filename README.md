@@ -5,7 +5,7 @@
 [![Device](https://img.shields.io/badge/Device-M5Cardputer-00A8E8.svg)](https://docs.m5stack.com/en/device/Cardputer)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-<em>Written by M5Stack AIFlow</em>
+<p align="center"><img src="docs/banner.jpg" alt="banner" style="max-width:60%"></p>
 
 An audio record & playback app for the **M5Stack Cardputer** running MicroPython / UIFlow2. It records audio from the built-in microphone, saves it as a WAV file, and plays it back through the built-in speaker. Two implementations are provided:
 
